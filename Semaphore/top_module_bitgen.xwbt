@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=/home/icarosix/WinData/Cursos/SistemasDigitales/simulation/ISE/Semaphore/top_module.ncd
+OUTFILE=/home/icarosix/WinData/Cursos/SistemasDigitales/simulation/ISE/Semaphore/top_module.bit
+FAMILY=Spartan6
+PART=xc6slx16-3csg324
+WORKINGDIR=/home/icarosix/WinData/Cursos/SistemasDigitales/simulation/ISE/Semaphore
+LICENSE=WebPack
+USER_INFO=211291799_0_0_918
