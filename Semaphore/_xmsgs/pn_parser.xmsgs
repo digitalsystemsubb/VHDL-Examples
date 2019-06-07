@@ -8,10 +8,7 @@
 <!-- Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.    -->
 
 <messages>
-<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;/home/icarosix/WinData/Cursos/SistemasDigitales/simulation/ISE/Semaphore/SemaphoreCtrl.vhd&quot; into library work</arg>
-</msg>
-
-<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;/home/icarosix/WinData/Cursos/SistemasDigitales/simulation/ISE/Semaphore/top_module.vhd&quot; into library work</arg>
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;/home/icarosix/WinData/Cursos/SistemasDigitales/simulation/ISE/VHDL-Examples/Semaphore/Top_module_tb.vhd&quot; into library work</arg>
 </msg>
 
 </messages>

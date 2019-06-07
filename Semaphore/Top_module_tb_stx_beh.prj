@@ -1,0 +1,3 @@
+vhdl isim_temp "SemaphoreCtrl.vhd"
+vhdl isim_temp "top_module.vhd"
+vhdl isim_temp "Top_module_tb.vhd"

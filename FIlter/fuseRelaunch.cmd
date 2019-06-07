@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "/home/icarosix/FIlter/tb_filterPARALLEL_isim_beh.exe" -prj "/home/icarosix/FIlter/tb_filterPARALLEL_beh.prj" "work.tb_filterPARALLEL" 

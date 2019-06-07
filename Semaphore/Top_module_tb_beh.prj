@@ -1,0 +1,3 @@
+vhdl work "SemaphoreCtrl.vhd"
+vhdl work "top_module.vhd"
+vhdl work "Top_module_tb.vhd"

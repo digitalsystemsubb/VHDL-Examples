@@ -1,1 +1,1 @@
--intstyle "ise" -incremental -lib "secureip" -o "/home/icarosix/WinData/Cursos/SistemasDigitales/simulation/ISE/Semaphore/top_module_isim_beh.exe" -prj "/home/icarosix/WinData/Cursos/SistemasDigitales/simulation/ISE/Semaphore/top_module_beh.prj" "work.top_module" 
+-intstyle "ise" -incremental -lib "secureip" -o "/home/icarosix/WinData/Cursos/SistemasDigitales/simulation/ISE/VHDL-Examples/Semaphore/Top_module_tb_isim_beh.exe" -prj "/home/icarosix/WinData/Cursos/SistemasDigitales/simulation/ISE/VHDL-Examples/Semaphore/Top_module_tb_beh.prj" "work.Top_module_tb" 
